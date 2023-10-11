@@ -1,4 +1,4 @@
-![Фото](https://disk.yandex.ru/i/8hNZJXchvX843A)
+![Фото](C:\Users\Family\Desktop\Marina Turbina_Portfolio\my picture for resume 2023.JPG)
 
 # Марина Турбина
 ## Портфолио
@@ -15,7 +15,7 @@
 
 _Перечень работ:_
 
-1. Курсовая работа [Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)
+1. Курсовая работа *[Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)*
 
 > - составление чек-листа для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя интернет-магазина
 > - написание тест-кейсов на основании требований для покрытия функционала восстановления пароля доступа в личный кабинет пользователя интернет-магазина
