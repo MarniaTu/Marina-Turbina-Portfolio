@@ -11,9 +11,9 @@
 
 >Учебный опыт *[ручного тестирования веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)* и работы в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*.
 
-_Перечень работ:_
+## _Учебная практика_:
 
-1. Курсовая работа *[Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)*
+### **Курсовая работа** *[Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)*
 
 > - составление чек-листа для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя интернет-магазина
 
@@ -24,7 +24,8 @@ _Перечень работ:_
 > - тестирование верстки страницы интернет-магазина (DevTools)
 
 
-2. Первые успехи на **Java** в ходе изучения модуля _Java для тестировщиков_:
+
+### **Домашние задания на Java** в модуле _Java для тестировщиков_:
 
 > - [программа расчета индекса массы тела](https://github.com/MarniaTu/bodyMassIndex/tree/main/src)
 
@@ -32,7 +33,7 @@ _Перечень работ:_
 
 
 
-_Со мной можно связаться:_
+### _Со мной можно связаться:_
 
 **Telegram @MarniaTu**
 
