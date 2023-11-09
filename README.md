@@ -9,7 +9,7 @@
 
 **У меня есть большое желание применить полученные в ходе обучения знания и навыки в реальной практике.**
 
->Учебный опыт *[ручного тестирования веб-приложений](https://disk.yandex.ru/i/TNV8udKzvAdOWw)* и работы в системе *[Git](https://disk.yandex.ru/i/zrxxqSmdFGgpCQ)*.
+>Учебный опыт *[ручного тестирования веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)* и работы в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*.
 
 _Перечень работ:_
 
