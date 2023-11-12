@@ -31,6 +31,8 @@
 
 > - [программа расчета ежемесячного платежа по кредиту](https://github.com/MarniaTu/CreditPaymentService/tree/main/src)
 
+> - [программа расчета бонуса за покупку; автотесты на Maven, JUnit5](https://github.com/MarniaTu/mvnNewBonusService) 
+
 
 
 ### _Со мной можно связаться:_
