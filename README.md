@@ -1,17 +1,28 @@
-# ![фото](img/my%20picture%20for%20resume%202023.png) Марина Турбина 
+# ![фото](img/myPicture.png) Марина Турбина 
 
 
 > ## Портфолио
 
 Здравствуйте!
 
-Я - начинающий тестировщик ПО в поиске стажировки. 
+Я - начинающий тестировщик ПО. Стремлюсь стать эффективным инженером по тестированию. 
 
 **У меня есть большое желание применить полученные в ходе обучения знания и навыки в реальной практике.**
 
->Учебный опыт *[ручного тестирования веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)* и работы в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*.
+>На курсе в [Нетологии](https://netology.ru/programs/qa-middle#/) я получила учебный опыт *[ручного тестирования веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)*, работы в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*, программирования на *[Java](https://github.com/MarniaTu/NetologyCertificates/blob/main/java-certificate.png)*. Готовлюсь к изучению автоматизированного тестирования на Java.
 
 ## _Учебная практика_:
+
+### **Примеры решения заданий в модуле** _Ручное тестирование веб-приложений_:
+
+> - [написание тест-кейсов к форме заявки на дебетовую карту](https://docs.google.com/spreadsheets/d/1d1GZydmi4w4k2xJxihwnfppJVMVLzLcy6pbPOEJF3gE/edit#gid=0)
+
+> - [cоставление баг-репортов при тестировании формы заявки на дебетовую карту](https://docs.google.com/spreadsheets/d/1mCow3dUmvzRvq1IA6vTO2HGiSsY6ca-9ZRFNUPAL6rc/edit#gid=0)
+
+> - [нагрузочное тестирование с помощью JMeter; 
+тестирование API с помощью инструмента Postman с заведением баг-репортов в Jira
+](https://docs.google.com/document/d/1QamtiohD4CdxL6YpA_wWmdh0jxduKbtMiLYYJzwjAm0/edit)
+
 
 ### **Курсовая работа** *[Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)*
 
@@ -25,21 +36,33 @@
 
 
 
-### **Домашние задания на Java** в модуле _Java для тестировщиков_:
+### **Примеры решения заданий** в модуле _Java для тестировщиков_:
 
-> - [программа расчета индекса массы тела](https://github.com/MarniaTu/bodyMassIndex/tree/main/src)
-
-> - [программа расчета ежемесячного платежа по кредиту](https://github.com/MarniaTu/CreditPaymentService/tree/main/src)
 
 > - [программа расчета бонуса за покупку; автотесты на Maven, JUnit5](https://github.com/MarniaTu/mvnNewBonusService) 
 
 
 > - [программа расчета количества месяцев отдыха в году с применением циклов и ее проверка параметризированными юнит-тестами](https://github.com/MarniaTu/RestMonths)
 
-> - [программа с расчетами на основе массива данных, с проверкой автотестами](https://github.com/MarniaTu/MonthlySales)
+> - [программа с расчетами ежемесячных продаж на основе массива данных, с проверкой автотестами](https://github.com/MarniaTu/MonthlySales)
+
+> - [программа-планировщик задач с реализацией наследования классов и переопределения методов, с проверкой автотестами](https://github.com/MarniaTu/Planner)
+
+> - [программа поиска авиабилетов с сортировкой объектов и их сравнением через Comparable и Comparator, с проверкой автотестами](https://github.com/MarniaTu/AviaTickets)
+
+> - [программа-турнир игроков с использованием коллекций, исключений](https://github.com/MarniaTu/Game)
 
 
-### _Со мной можно связаться:_
+### **Командный проект** по модулю _[Java для тестировщиков](https://github.com/MarniaTu/JavaQATeamProject)_
+- роль участника А в проекте 
+- протестирован класс CreditAccount.java
+- оформлены баг-репорты в GitHub Issues на найденные дефекты 
+- скорректирован код в SavingAccount.java на основании Issues от участника Б
+- протестирован класс Bank, оформлены баг-репорты на найденные дефекты
+- ежедневные командные обсуждения статуса проекта, совместный поиск решения проблемных ситуаций, следование рекомендованному таймингу
+
+> ### _Мои контакты:_
+
 
 **Telegram @MarniaTu**
 
