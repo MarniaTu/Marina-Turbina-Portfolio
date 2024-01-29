@@ -24,7 +24,7 @@
 ](https://docs.google.com/document/d/1QamtiohD4CdxL6YpA_wWmdh0jxduKbtMiLYYJzwjAm0/edit)
 
 
-### **Курсовая работа** *[Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)*
+### **Курсовая работа** *[Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/129ZklUHGfoxVvfxpeNTDUNB_1Vk2lwghwTz9D_hJTvQ/edit#gid=0)* 
 
 > - составление чек-листа для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя интернет-магазина
 
@@ -34,7 +34,11 @@
 
 > - тестирование верстки страницы интернет-магазина (DevTools)
 
+### **Тестовые задания по ручному тестированию**:
 
+> - написание **чек-листа** для проверок функциональности приложения [Nextracker](https://docs.google.com/spreadsheets/d/17SNj0_0b62Zkz0tUTu5832hsPUkP0JBNJ-n11gefW54/edit#gid=0); составление **тест-кейсов** для проверок в рамках выбранной для закрепления привычки; оформление **баг-репортов**
+
+> - написание **чек-листа** для проверки верстки и функциональности [веб-сайта](https://docs.google.com/spreadsheets/d/1OPI2f8HAcrnsyTyDXwxL-O1fRik5lAz6K0VZUHNDp1E/edit#gid=0); составление **баг-репортов**
 
 ### **Примеры решения заданий** в модуле _Java для тестировщиков_:
 
