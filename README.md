@@ -9,7 +9,8 @@
 
 **У меня есть большое желание применить полученные в ходе обучения знания и навыки в реальной практике.**
 
->На курсе в [Нетологии](https://netology.ru/programs/qa-middle#/) я получила учебный опыт *[ручного тестирования веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)*, работы в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*, программирования на *[Java](https://github.com/MarniaTu/NetologyCertificates/blob/main/java-certificate.png)*. Готовлюсь к изучению автоматизированного тестирования на Java.
+>На курсе в [Нетологии](https://netology.ru/programs/qa-middle#/) я получила учебный опыт *[ручного тестирования веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)*, работы в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*, программирования на *[Java](https://github.com/MarniaTu/NetologyCertificates/blob/main/java-certificate.png)*. 
+В настоящее время изучаю автоматизированное тестирование на Java.
 
 ## _Учебная практика_:
 
