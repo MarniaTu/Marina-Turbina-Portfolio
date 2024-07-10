@@ -5,7 +5,8 @@
 
 Здравствуйте!
 
-Я специализируюсь на тестировании **веб-приложений**. 
+У меня есть опыт ручного и автоматизированного тестирования разноплановых **веб-приложений**. *С примерами работ можно ознакомиться ниже.*
+В настоящее время я также практикуюсь в ручном тестировании мобильных приложений.
 
 Буду рада быть полезной в работе над проектами в дружной компании увлеченных своим делом коллег, чтобы вместе стремиться к достижению лучшего результата.
 
@@ -58,7 +59,7 @@
 ](https://docs.google.com/document/d/1QamtiohD4CdxL6YpA_wWmdh0jxduKbtMiLYYJzwjAm0/edit)
   
 
-## **_Примеры моих работ в автоматизированном тестировании:_**
+## **_Примеры моих работ в автоматизированном тестировании на Java:_**
 
 > - составление [**тест-плана**](https://github.com/MarniaTu/TestPlan) автоматизации проверок для формы регистрации на курс в _Нетологии_
 
@@ -90,22 +91,17 @@
 - протестировал класс Bank, оформлены баг-репорты на найденные дефекты (на основании командных обсуждений)
 - ежедневно участвовала в командных обсуждениях статуса проекта (совместный поиск решения проблемных ситуаций, следование рекомендованному таймингу)
 
-#### **Примеры решения учебных заданий** в _Нетологии_:
+## **Примеры работ в автоматизированном тестировании на JavaScript**:
 
 
-> - [программа расчета бонуса за покупку; автотесты на Maven, JUnit5](https://github.com/MarniaTu/mvnNewBonusService) 
+> - [протестировала форму авторизации сайта Нетологии, фреймворк **Playwright**](https://github.com/MarniaTu/PlaywrightHW) 
 
 
-> - [программа расчета количества месяцев отдыха в году с применением циклов и ее проверка параметризированными юнит-тестами](https://github.com/MarniaTu/RestMonths)
+> - [протестировала сервис бронирования билетов в кино, фреймворк **Puppeteer** (применила кастомные команды, реализовала BDD-подход **Cucumber-Puppeteer**, завела баг в GitHub Issues)](https://github.com/MarniaTu/PuppeteerPartTwo)
 
-> - [программа с расчетами ежемесячных продаж на основе массива данных, с проверкой автотестами](https://github.com/MarniaTu/MonthlySales)
+> - [протестировала сервис бронирования билетов в кино, управление открытия продаж через админпанель, фреймворк **Cypress** (применила кастомную команду, фикстуры для тестовых данных и селекторов, подключила отчетность в **Cypress Dashboard**)](https://github.com/MarniaTu/CypressPartTwo)
 
-> - [программа-планировщик задач с реализацией наследования классов и переопределения методов, с проверкой автотестами](https://github.com/MarniaTu/Planner)
-
-> - [программа поиска авиабилетов с сортировкой объектов и их сравнением через Comparable и Comparator, с проверкой автотестами](https://github.com/MarniaTu/AviaTickets)
-
-> - [программа-турнир игроков с использованием коллекций, исключений](https://github.com/MarniaTu/Game)
-
+> - [реализовала API-тестирование сервиса Petstore, фреймворк **Cypress** (GET, POST, PUT, DELETE запросы, с подключением отчетности в **Cypress Dashboard**)](https://github.com/MarniaTu/CypressAPI)
 
 
 
@@ -115,11 +111,14 @@
  - работа в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*
 - *[Java](https://github.com/MarniaTu/NetologyCertificates/blob/main/java-certificate.png)* для тестировщиков 
  - *[автоматизированное тестирование веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/test-automation.png)*
+ - *[курсовая работа по итогам 4х модулей](https://github.com/MarniaTu/NetologyCertificates/blob/main/CourseWorkAfter4Modules.PNG)*
+ - *[JavaScript](https://github.com/MarniaTu/NetologyCertificates/blob/main/JavaScript.png)* для тестировщиков
+ - *[Автоматизация тестирования веб-интерфейсов](https://github.com/MarniaTu/NetologyCertificates/blob/main/JS_automation.PNG)*
   
 ## _Мои контакты:_
 
 
-**Telegram @MarniaTu**
+**t.me/MarniaTu**
 
 marniatu@gmail.com
 
