@@ -5,8 +5,8 @@
 
 Здравствуйте!
 
-У меня есть опыт ручного и автоматизированного тестирования разноплановых **веб-приложений**. *С примерами работ можно ознакомиться ниже.*
-В настоящее время я также практикуюсь в ручном тестировании мобильных приложений.
+У меня есть опыт ручного и автоматизированного тестирования разноплановых **веб-приложений** (Java, JS). *С примерами работ можно ознакомиться ниже.*
+В настоящее время я занимаюсь дипломным проектом: автоматизация тестирования мобильного приложения (Java).
 
 Буду рада быть полезной в работе над проектами в дружной компании увлеченных своим делом коллег, чтобы вместе стремиться к достижению лучшего результата.
 
@@ -104,16 +104,6 @@
 > - [реализовала API-тестирование сервиса Petstore, фреймворк **Cypress** (GET, POST, PUT, DELETE запросы, с подключением отчетности в **Cypress Dashboard**)](https://github.com/MarniaTu/CypressAPI)
 
 
-
-### _Электронные сертификаты_ по результатам успешного изучения модулей программы профессиональной переподготовки в [Нетологии](https://netology.ru/programs/qa-middle#/):
- 
- - *[ручное тестирование веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/image.png)* 
- - работа в системе *[Git](https://github.com/MarniaTu/NetologyCertificates/blob/main/image-1.png)*
-- *[Java](https://github.com/MarniaTu/NetologyCertificates/blob/main/java-certificate.png)* для тестировщиков 
- - *[автоматизированное тестирование веб-приложений](https://github.com/MarniaTu/NetologyCertificates/blob/main/test-automation.png)*
- - *[курсовая работа по итогам 4х модулей](https://github.com/MarniaTu/NetologyCertificates/blob/main/CourseWorkAfter4Modules.PNG)*
- - *[JavaScript](https://github.com/MarniaTu/NetologyCertificates/blob/main/JavaScript.png)* для тестировщиков
- - *[Автоматизация тестирования веб-интерфейсов](https://github.com/MarniaTu/NetologyCertificates/blob/main/JS_automation.PNG)*
   
 ## _Мои контакты:_
 
